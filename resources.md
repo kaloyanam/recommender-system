@@ -23,3 +23,7 @@ cit-deskdrop
 * Normalisation - https://towardsdatascience.com/normalization-vs-standardization-explained-209e84d0f81e
 * Bias-variance tradeoff - https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
 
+# 24-06-2024
+### Negative sampling:
+* 1 - https://www.bcg.com/x/the-multiplier/explaining-negative-sampling-in-recommender-systems
+* 2 - https://medium.com/@aisagescribe/a-comprehensive-review-of-negative-sampling-techniques-in-machine-learning-f3799e29803a#id_token=eyJ[…]DL-adE8yWgGQ
